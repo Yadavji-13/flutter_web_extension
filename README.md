@@ -8,4 +8,6 @@ manifest.json
 
 ## Build web build for extension
 flutter build web --web-renderer html --csp
+version-3.10.1
+use fvm
 
