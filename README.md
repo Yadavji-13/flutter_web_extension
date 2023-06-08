@@ -1,2 +1,11 @@
-# flutter_web_extension
-Create Demo for flutter web extension
+# web_extension
+
+Web extension demo
+
+## Configuration file in Project/Web folder file
+index.html
+manifest.json
+
+## Build web build for extension
+flutter build web --web-renderer html --csp
+
